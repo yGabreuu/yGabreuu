@@ -1,42 +1,47 @@
-<h1 align="left">Ei 👋 Eai como vai?</h1>
+<h2 align="center">⚡ Codifique o futuro<br><b>Seja a inovação</b> ⚡</h2>
 
-###
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=200&section=header&text=Gabriel%20%7C%20Data%20Wizard&fontSize=35&fontColor=ffffff" />
+</p>
 
-<p align="left">Meu nome é Gabriel...E Sou do Brasil</p>
+---
 
-###
+### Bem-vindo ao meu GitHub!
 
-<h2 align="left">Sou apaixonado por ciência e análise de dados.</h2>
+- Pronouns: he | him  
+- Estudante de Análise e Desenvolvimento de Sistemas  
+- Focado em Análise de Dados e Machine Learning  
+- Vivendo no Brasil    
+- Aprendendo SQL, Python, estatística e Power BI
 
-###
+---
 
-<p align="left">🔰 Me pergunte sobre : Python e suas bibliotecas<br>📚 Atualmente estou aprendendo: MySQL e POWER BI, PySpark e Machine Learning<br>✉Email: gabrielvast8@gmail.com<br>📭LinkedIn: www.linkedin.com/in/gabriel-santos-matos-6122a8210</p>
+### Linguagens mais usadas
 
-###
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yGabreuu&layout=compact&theme=tokyonight)
 
-<h2 align="left">Eu codifico com</h2>
+---
 
-###
+### Estatísticas do GitHub
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-</div>
+![Gabriel GitHub Stats](https://github-readme-stats.vercel.app/api?username=yGabreuu&show_icons=true&theme=tokyonight)
+[![Streak](https://github-readme-streak-stats.herokuapp.com?user=yGabreuu&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yGabreuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yGabreuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+### Trophies (só pra ostentar)
 
-###
+[![trophy](https://github-profile-trophy.vercel.app/?username=yGabreuu&theme=darkhub&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://raw.githubusercontent.com/yGabreuu/yGabreuu/output/snake.svg" alt="Snake animation" />
+---
 
-###
+### Conecte-se comigo
+
+[![Gmail](https://img.shields.io/badge/-gabrielvast8@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:gabrielvast8@gmaik.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santos-matos-6122a8210/)
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F700FF&center=true&vCenter=true&width=435&lines=Let's+analyze+some+data!;Automating+insights...;Learning+every+day!" />
+</p>
